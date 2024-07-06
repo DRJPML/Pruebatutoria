@@ -15,3 +15,6 @@ Establecer objetivos para que otros lo vean. Objetivo general.
 3. Praesent sem elit, varius ut pretium eget, suscipit vitae tellus. Mauris porta risus lorem, ac varius leo varius sed. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 ![IMG_0359](https://github.com/DRJPML/Pruebatutoria/assets/174209191/1ec65dba-bde7-466e-97a0-ced86e5baa7b)
+
+### Código utilizado en el análisis
+``` SELECT * FROM table ```
